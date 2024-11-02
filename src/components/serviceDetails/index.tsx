@@ -1,7 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useState } from "react";
 import api from "../../components/config/api";
-// import { Service } from "../../components/modal/service";
 import "./index.scss";
 import ServiceCard from "../ServiceCard";
 import { Button, Modal, Pagination as AntPagination } from "antd";
